@@ -256,11 +256,12 @@ Instead, this data supports a **tiered, responsibility-based policy framework**:
 
 ---
 
-
 ## 👤 Contact
-- Eliza C. Huang | Data Analyst with a background in UX and data-driven analysis. Interested in roles within public policy, NGOs, human rights, and social impact organizations.
-- Portfolio / Data Visualizations: Instagram – DataDrawers [https://www.instagram.com/datadrawers/]
-- LinkedIn: [https://www.linkedin.com/in/chuyunh/]
+**Eliza C. Huang**  
+Data Analyst with a background in UX and data-driven analysis. Interested in high-impact roles across **Public Policy, NGOs, Human Rights**, as well as industries such as **Technology, Supply Chain & Logistics, Healthcare, Sustainability, and FinTech**.
+- 📊 Tableau Public: https://public.tableau.com/app/profile/eliza.c.huang/vizzes  
+- 💼 LinkedIn: https://www.linkedin.com/in/chuyunh/  
+- 📸 Instagram: DataDrawers — https://www.instagram.com/datadrawers/  
 
 
 

@@ -1,6 +1,6 @@
 
 # Global Electricity Demand vs. Green Adoption
-<img width="auto" height="auto" alt="image" src="https://github.com/user-attachments/assets/399d74e7-f3f6-41f6-8917-fa94c4cd396c" />
+<img width="auto" height="auto" alt="A horizontal banner with a warm mustard-yellow background. On the left side, the text reads Global Electricity in a large, white serif font, with a smaller subtitle below it that says Demand vs. Green Adoption in a clean sans-serif font. The right side features a decorative pattern of several realistic incandescent light bulbs floating at various angles, creating a theme of energy and illumination." src="https://github.com/user-attachments/assets/399d74e7-f3f6-41f6-8917-fa94c4cd396c" />
 
 ## 📌 Research Question
 
@@ -165,7 +165,7 @@ ORDER BY total_twh DESC;
 📊 **Interactive Dashboard**
 👉 [https://public.tableau.com/views/GlobalElectricityDemandvs_GreenAdoption/Dashboard](https://public.tableau.com/views/GlobalElectricityDemandvs_GreenAdoption/Dashboard)
 
-<a href="https://public.tableau.com/views/GlobalElectricityDemandvs_GreenAdoption/Dashboard"><img width="auto" height="auto" alt="image" src="https://github.com/user-attachments/assets/d7df3d9e-2952-4214-adcf-45443908f863" /></a>
+<a href="https://public.tableau.com/views/GlobalElectricityDemandvs_GreenAdoption/Dashboard"><img width="auto" height="auto" alt="Data dashboard showing total global demand at 29,512 TWh. A priority matrix identifies China and the U.S. as high-demand outliers with below-average renewable shares, while Brazil and Canada lead in green adoption performance." src="https://github.com/user-attachments/assets/d7df3d9e-2952-4214-adcf-45443908f863" /></a>
 
 ---
 

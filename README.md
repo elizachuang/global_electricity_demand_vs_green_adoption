@@ -1,6 +1,6 @@
 
 # Global Electricity Demand vs. Green Adoption
-
+<img width="auto" height="auto" alt="image" src="https://github.com/user-attachments/assets/399d74e7-f3f6-41f6-8917-fa94c4cd396c" />
 
 ## 📌 Research Question
 

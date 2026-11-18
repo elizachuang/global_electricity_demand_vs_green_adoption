@@ -39,13 +39,13 @@ I kept the original numbers in this README (see the **"Original version"** secti
 **1. I compared countries to the wrong average.**
 Version 1 used a simple average of all 173 countries: **37.7%**. In a simple average, every country counts the same. Paraguay (20 TWh, 100% renewable) counted as much as China (9,443 TWh). Many small countries run almost entirely on hydropower, so they pulled the average up.
 
-My question is about the **world's electricity**, so the average should be weighted by how much electricity each country uses. That gives **30.1%**, the actual renewable share of world electricity. Because of this, every country's gap in version 1 was about **7.6 pp too low**, so every big user looked further behind than it really was.
+My question is about the **world's electricity**, so the average should be weighted by how much electricity each country uses. That gives **30.1%**, the actual renewable share of world electricity. Because of this, every gap in version 1 was **7.6 pp lower** than it should have been, so every big user looked further behind than it really was.
 
 **2. One ranking was wrong.**
 The version 1 table ranked Canada (614 TWh) 7th and South Korea (617 TWh) 9th. South Korea uses more, so it is 7th.
 
 **3. The groups did not follow a clear rule.**
-Version 1 placed Japan, Mexico and Indonesia in a "near average" group, although by its own numbers they were 15–18 pp below average. Saudi Arabia (1.1% renewable) and Iran (6.5%) were missing from the mandate list. Version 2 uses a written rule (see [Tier Rules](#-tier-rules)), so the data decides the group, not my judgement.
+Version 1 placed Japan, Mexico and Indonesia in a "near average" group, although by its own numbers they were 15–19 pp below average. Saudi Arabia (1.1% renewable) and Iran (6.5%) were missing from the mandate list. Version 2 uses a written rule (see [Tier Rules](#-tier-rules)), so the data decides the group, not my judgement.
 
 **4. Nuclear power and per-person use were left out.**
 France looked like a laggard at 26.6% renewable, but 92% of its electricity is low-carbon thanks to nuclear. India uses 1.3 MWh per person, compared with 12.4 MWh in the US. Version 2 shows both.
@@ -474,7 +474,7 @@ These countries demonstrate that **high electricity demand and high renewable ad
 * **Canada**:~65% renewable
 * **Germany**:~54% renewable
 
-*Why it changed: these groups were chosen by judgement, not a written rule. Japan, Mexico and Indonesia were 15–18 pp below the (simple) average but placed in the middle group; Saudi Arabia and Iran were left out; France was judged on renewables only.*
+*Why it changed: these groups were chosen by judgement, not a written rule. Japan, Mexico and Indonesia were 15–19 pp below the (simple) average but placed in the middle group; Saudi Arabia and Iran were left out; France was judged on renewables only.*
 
 </details>
 

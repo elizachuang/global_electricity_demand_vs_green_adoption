@@ -28,9 +28,9 @@ Rather than treating climate responsibility as evenly distributed across all cou
 
 ---
 
-## 🔄 Revisiting This Project (10 Months Later)
+## 🔄 Revisiting This Project
 
-After I published the first version of this project, I reviewed the numbers again and found that some of them told a misleading story. I corrected the analysis and rebuilt the dashboard.
+I reviewed the numbers again and found that some of them told a misleading story. I corrected the analysis and rebuilt the dashboard.
 
 I kept the original numbers in this README (see the **"Original version"** sections below), so you can see what changed and why.
 
